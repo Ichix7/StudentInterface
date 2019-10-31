@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<People>
+  <Person>
+    <FirstName>Bobs</FirstName>
+    <LastName>Bobby</LastName>
+    <EmailAdress>sgfds</EmailAdress>
+    <StudentId>6-14-587</StudentId>
+    <StartDate>05-14-82</StartDate>
+    <PhoneNumber>685-1469</PhoneNumber>
+  </Person>
+  <Person>
+    <FirstName>John</FirstName>
+    <LastName>Smith</LastName>
+    <EmailAdress>DFg</EmailAdress>
+    <StudentId>6-58-471</StudentId>
+    <StartDate>04-15-74</StartDate>
+    <PhoneNumber>186-1458</PhoneNumber>
+  </Person>
+</People>

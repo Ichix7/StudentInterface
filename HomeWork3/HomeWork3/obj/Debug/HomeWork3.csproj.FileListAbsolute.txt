@@ -1,0 +1,56 @@
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csprojResolveAssemblyReference.cache
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\MainWindow.g.cs
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\App.g.cs
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.cache
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.lref
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\MainWindow.baml
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3.g.resources
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3.Properties.Resources.resources
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.GenerateResource.Cache
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\ichig\OneDrive\Documents\WPF code\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csprojResolveAssemblyReference.cache
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\MainWindow.g.cs
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\App.g.cs
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.cache
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.lref
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\MainWindow.baml
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3.g.resources
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3.Properties.Resources.resources
+C:\Users\windenj\Downloads\HomeWork3 (1)\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.GenerateResource.Cache
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csprojResolveAssemblyReference.cache
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\MainWindow.g.cs
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\App.g.cs
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.cache
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.lref
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\MainWindow.baml
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.g.resources
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.Properties.Resources.resources
+C:\Users\windenj\Downloads\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.GenerateResource.Cache
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csprojResolveAssemblyReference.cache
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\MainWindow.g.cs
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\App.g.cs
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.cache
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3_MarkupCompile.lref
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\MainWindow.baml
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.g.resources
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.Properties.Resources.resources
+C:\Users\ichig\OneDrive\Documents\Visual Studio 2015\Projects\HomeWork3\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.GenerateResource.Cache
